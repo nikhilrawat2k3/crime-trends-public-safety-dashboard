@@ -42,7 +42,7 @@ jupyter notebook
 
 Run the notebooks.
 
-##📊 Key Analysis Performed
+## 📊 Key Analysis Performed
 Crime count by district
 Top 20 districts with highest crimes
 Crime count by reporting area
@@ -50,12 +50,12 @@ Top 20 most dangerous streets
 Crime heatmaps using latitude & longitude
 Pie and bar chart visualizations
 
-##🔮 Future Scope
+## 🔮 Future Scope
 Build full Power BI dashboard
 Add predictive model for crime forecasting
 Deploy as a web dashboard
 Integrate real-time crime APIs
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Nikhil Rawat
 B.Tech CSE | Data Analytics Enthusiast
